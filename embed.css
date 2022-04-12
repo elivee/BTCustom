@@ -14,3 +14,6 @@ body{
 .ticket-icon{
  display: none !important;
 }
+.form{
+ display:block !important; 
+}
