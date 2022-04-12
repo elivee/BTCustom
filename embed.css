@@ -17,3 +17,6 @@ body{
 .form{
  display:block !important; 
 }
+.close-registration-button{
+ display:none !important;
+}
