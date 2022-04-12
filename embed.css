@@ -1,3 +1,9 @@
 .details{
 display: none !important;
 }
+body{
+ background-color:none !important;
+}
+.main{
+ max-width: fit-content !important; 
+}
