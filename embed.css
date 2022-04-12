@@ -17,6 +17,7 @@ body{
 
 .form{
  width: 35vw !important;
+ display: block !important;
 }
 .question{
     max-width: 45% !important;
